@@ -1,0 +1,13 @@
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\bin\Release\Big Project.exe.config
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\bin\Release\Big Project.exe
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\bin\Release\Big Project.pdb
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\bin\Release\ru\Big Project.resources.dll
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\bin\Release\en\Big Project.resources.dll
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Release\Big_Project.Form1.resources
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Release\Big_Project.Properties.Res.ru.resources
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Release\Big_Project.Properties.Res.en.resources
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Release\Big Project.csproj.GenerateResource.cache
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Release\ru\Big Project.resources.dll
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Release\en\Big Project.resources.dll
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Release\Big Project.exe
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Release\Big Project.pdb

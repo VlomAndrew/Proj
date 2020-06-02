@@ -1,0 +1,46 @@
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\bin\Debug\Big Project.exe.config
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\bin\Debug\Big Project.exe
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\bin\Debug\Big Project.pdb
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big Project.csprojAssemblyReference.cache
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big_Project.Form1.resources
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big Project.csproj.GenerateResource.cache
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big Project.exe
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big Project.pdb
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\bin\Debug\ru\Big Project.resources.dll
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\bin\Debug\en\Big Project.resources.dll
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big_Project.Properties.Res.ru.resources
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big_Project.Properties.Res.en.resources
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\ru\Big Project.resources.dll
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\en\Big Project.resources.dll
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big_Project.Properties.Resources.resources
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big Project.csproj.CopyComplete
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big_Project.AboutBox.resources
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big_Project.FormError.resources
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big_Project.FormAuthentication.resources
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big_Project.NewUserAdmin.resources
+C:\Users\Андрей\Documents\Stud Projects\Big Project\Big Project\obj\Debug\Big_Project.DinamycAddModForm.resources
+C:\Users\andre\Desktop\Big Project\Big Project\bin\Debug\Big Project.exe.config
+C:\Users\andre\Desktop\Big Project\Big Project\bin\Debug\Big Project.exe
+C:\Users\andre\Desktop\Big Project\Big Project\bin\Debug\Big Project.pdb
+C:\Users\andre\Desktop\Big Project\Big Project\bin\Debug\ru\Big Project.resources.dll
+C:\Users\andre\Desktop\Big Project\Big Project\bin\Debug\en\Big Project.resources.dll
+C:\Users\andre\Desktop\Big Project\Big Project\bin\Debug\System.Data.SqlClient.dll
+C:\Users\andre\Desktop\Big Project\Big Project\bin\Debug\System.Data.SqlClient.xml
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big Project.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big_Project.AboutBox.resources
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big_Project.DinamycAddModForm.resources
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big_Project.Form1.resources
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big_Project.FormAuthentication.resources
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big_Project.FormError.resources
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big_Project.NewUserAdmin.resources
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big_Project.Properties.Resources.resources
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big_Project.Properties.Res.ru.resources
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big_Project.Properties.Res.en.resources
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big Project.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\ru\Big Project.resources.dll
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\en\Big Project.resources.dll
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big Project.csproj.CopyComplete
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big Project.exe
+C:\Users\andre\Desktop\Big Project\Big Project\obj\Debug\Big Project.pdb
